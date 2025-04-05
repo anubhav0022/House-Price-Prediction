@@ -1,0 +1,1 @@
+## In this project I scraped data about the flats and independent houses located in Gurgaon city listed on a website, cleaned them , did feature engineering , performed EDA and developed a interface for smoother user interaction.I will be uploading all the relevant files in this repository. 
